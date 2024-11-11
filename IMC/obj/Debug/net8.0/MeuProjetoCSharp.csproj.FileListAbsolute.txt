@@ -1,0 +1,14 @@
+D:\C#\Balta_OOP\obj\Debug\net8.0\MeuProjetoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Balta_OOP\obj\Debug\net8.0\MeuProjetoCSharp.AssemblyInfoInputs.cache
+D:\C#\Balta_OOP\obj\Debug\net8.0\MeuProjetoCSharp.AssemblyInfo.cs
+D:\C#\Balta_OOP\obj\Debug\net8.0\MeuProjetoCSharp.csproj.CoreCompileInputs.cache
+D:\C#\Balta_OOP\bin\Debug\net8.0\MeuProjetoCSharp.exe
+D:\C#\Balta_OOP\bin\Debug\net8.0\MeuProjetoCSharp.deps.json
+D:\C#\Balta_OOP\bin\Debug\net8.0\MeuProjetoCSharp.runtimeconfig.json
+D:\C#\Balta_OOP\bin\Debug\net8.0\MeuProjetoCSharp.dll
+D:\C#\Balta_OOP\bin\Debug\net8.0\MeuProjetoCSharp.pdb
+D:\C#\Balta_OOP\obj\Debug\net8.0\MeuProjetoCSharp.dll
+D:\C#\Balta_OOP\obj\Debug\net8.0\refint\MeuProjetoCSharp.dll
+D:\C#\Balta_OOP\obj\Debug\net8.0\MeuProjetoCSharp.pdb
+D:\C#\Balta_OOP\obj\Debug\net8.0\MeuProjetoCSharp.genruntimeconfig.cache
+D:\C#\Balta_OOP\obj\Debug\net8.0\ref\MeuProjetoCSharp.dll
